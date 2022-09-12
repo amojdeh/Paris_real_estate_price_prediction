@@ -8,6 +8,6 @@ The data is unknown to the author. I need to learn the data myself first to be a
 
 ## Data
 There are three files associated with this problem:
-1. **valeursfoncieres-2020.txt**, which includes all the real estate transactions carried out in the French territory since 2014. This file does not include geographical coordinates, but it does include land value and parsed IDs of the land.
-2. **parcelles.zip**, which includes the geographical information (coordinates) of the lands, followed by the land ID which can be used to match with the land value in the text file.
+1. **valeursfoncieres-2020.txt**, which includes all the real estate transactions carried out in the French territory since 2014. This file does not include geographical coordinates, but it does include land value and parsed IDs of the land.https://www.data.gouv.fr/en/datasets/r/90a98de0-f562-4328-aa16-fe0dd1dca60f
+2. **parcelles.zip**, which includes the geographical information (coordinates) of the lands, followed by the land ID which can be used to match with the land value in the text file.https://cadastre.data.gouv.fr/data/etalab-cadastre/2021-04-01/shp/departements/75/cadastre-75-parcelles-shp.zip
 3. **notice-descriptive-du-fichier-dvf-20210809_EN.pdf**, which is a text, explaining the data inside the txt file. 
